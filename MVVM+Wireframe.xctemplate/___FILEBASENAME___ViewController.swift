@@ -6,7 +6,7 @@ class ___VARIABLE_moduleName___ViewController: UIViewController {
     private var vm: ___VARIABLE_moduleName___ViewModel!
     
     init(vm: ___VARIABLE_moduleName___ViewModel) {
-        super.init()
+        super.init(nibName: nil, bundle: nil)
         self.vm = vm
     }
     
