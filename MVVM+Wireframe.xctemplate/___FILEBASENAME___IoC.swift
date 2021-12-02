@@ -1,4 +1,4 @@
-import Foundation
+import UIKit
 
 extension Application {
     func get___VARIABLE_moduleName___() -> UIViewController {
