@@ -88,6 +88,20 @@
 			<key>Type</key>
 			<string>static</string>
 		</dict>
+		<dict>
+			<key>Default</key>
+			<string>___VARIABLE_moduleName___IoC</string>
+			<key>Description</key>
+			<string>IoC Extension name</string>
+			<key>Identifier</key>
+			<string>store</string>
+			<key>Name</key>
+			<string>Store :</string>
+			<key>Required</key>
+			<true/>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
 	</array>
 	<key>Platforms</key>
 	<array>
